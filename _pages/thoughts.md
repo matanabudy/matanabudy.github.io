@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /thoughts/
-title: thoughts
+permalink: /blog/
+title: blog
 nav: true
 nav_order: 1
 pagination:
