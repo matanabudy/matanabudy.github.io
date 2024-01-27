@@ -4,16 +4,16 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Matan
-middle_name: 
+middle_name:
 last_name: Abudy
 email: matan.abudy@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a graduate student studying computational linguistics at [Tel-Aviv University](https://www.tau.ac.il) under the guidance of [Prof. Roni Katzir](https://english.tau.ac.il/profile/rkatzir), and part of the [TAU Computational Linguistics Lab](https://taucompling.github.io). My interest lies primarily in human cognition, specifically in understanding how humans learn languages and the computational models that underlie this process.
-footer_text: 
-keywords: matan, matanabudy, abudy, cognition, linguistics, computational-linguistics, jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+footer_text:
+keywords: matan, matanabudy, abudy, cognition, linguistics, computational-linguistics, jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🔖  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://matanabudy.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -103,18 +103,17 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 
 contact_note: >
 
-
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
 google_analytics: G-MGFV3WFSRL # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
+cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+google_site_verification: # your google-site-verification ID (Google Search Console)
+bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
